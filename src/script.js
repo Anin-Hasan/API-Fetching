@@ -9,7 +9,7 @@ const form = document.getElementById("form");
 const search = document.getElementById("search");
 const titleBtn = document.getElementById("titleBtn");
 
- 
+
 getMovies(API_URL);
 
 function getMovies(url){
